@@ -1,5 +1,7 @@
 # Complete Guide: How to Buy SNEK Token Using Coinbase, Vespr, and Minswap
 
+###tips accepted addr1q9gcs0czk0h6dsj5uc6tghp274svswzapxp58rs6afwuzhdxhc0kqfgn0yr8j6vpc8e42sll062g68dg6puses05jl9sma8z50
+
 ## Part 1: Setting Up Vespr Wallet
 
 ### 1. Install Vespr Wallet
