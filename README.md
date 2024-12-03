@@ -36,7 +36,7 @@
 8. Complete any required 2FA verification
 
 ### 3. Wait for Transfer
-1. Typical transfer time: 5-20 minutes
+1. Typical transfer time: 1-2 minutes
 2. Check your Vespr wallet for the received funds
 3. You can track the transaction status on Coinbase
 
